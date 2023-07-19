@@ -1,0 +1,41 @@
+_repo: Dig-me-no-grave_71066
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Howard, Robert E. (Robert Ervin)
+    alias: Howard, Robert Ervin
+    birthdate: 1906
+    deathdate: 1936
+    gutenberg_agent_id: '36031'
+    url: http://www.gutenberg.org/2009/agents/36031
+    wikipedia: https://en.wikipedia.org/wiki/Robert_E._Howard
+description: ''
+gutenberg_issued: '2023-06-28'
+identifiers:
+  gutenberg: '71066'
+language: en
+pgterms:marc905: 20230307080411howard
+pgterms:marc906: '1937'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bPopular Fiction Publishing Company, $c1937.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+- GITenberg
+title: Dig me no grave
+url: http://www.gutenberg.org/ebooks/71066
